@@ -1,5 +1,5 @@
 package edu.saintjoe.cs.tcooper.shapestsc;
 
-public class Triangle {
+public class Triangle extends Shape{
 
 }

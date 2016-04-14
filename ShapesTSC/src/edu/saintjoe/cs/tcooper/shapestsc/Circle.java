@@ -1,5 +1,5 @@
 package edu.saintjoe.cs.tcooper.shapestsc;
 
-public class Circle {
+public class Circle extends Shape{
 
 }

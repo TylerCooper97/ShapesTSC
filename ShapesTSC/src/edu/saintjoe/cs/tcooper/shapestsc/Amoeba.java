@@ -1,5 +1,5 @@
 package edu.saintjoe.cs.tcooper.shapestsc;
 
-public class Amoeba {
+public class Amoeba extends Shape{
 
 }
